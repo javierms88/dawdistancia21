@@ -15,7 +15,7 @@ function funcionInventada1($param1)
 {
 
   echo "Hola";
-  $param2 = "Hola ".($param1);
+  $param2 = "Hola ".($param1)."Estamos cambiando el código";
   return $param2;
 }
 
